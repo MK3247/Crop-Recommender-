@@ -1,36 +1,67 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crop Recommender</title>
-</head>
-<body>
-    <h3>Crop Recommender</h3>
-    <form action="/result" method="post">
-        <label for="N">N</label>
-        <input type="text" id="N" name="N">
-        <br>
-        <label for="P">P</label>
-        <input type="text" id="P" name="P">
-        <br>
-        <label for="K">K</label>
-        <input type="text" id="K" name="K">
-        <br>
-        <label for="Temperature">Temperature</label>
-        <input type="text" id="Temperature" name="Temperature">
-        <br>
-        <label for="humidity">Humidity</label>
-        <input type="text" id="humidity" name="humidity">
-        <br>
-        <label for="ph">PH</label>
-        <input type="text" id="ph" name="ph">
-        <br>
-        <label for="rainfall">Rainfall</label>
-        <input type="text" id="rainfall" name="rainfall">
-        <br>
-        <input type="submit" value="Submit">
-    </form>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <title>crop recommender</title>
+  </head>
+  <body>  
+    
+    
+    <div class="container mt-0 p-3">
+      
+      <div class="col">
+        <div class="row">
+          <h3>How does it work?</h3>
+          <p>
+            Complete all the parameters and the machine learning model will predict the most suitable crops
+            to grow in a particular farm based on various parameters.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+            <div class="col">
+                <form action="/result" method="POST">
+                    <div class="form-group row">
+                        <div class="col-sm-6 mb-3">
+                            <label for="N" class="form-label">Nitrogen (N)</label>
+                            <input type="text" class="form-control" id="N" name="N">
+                        </div>
+                        <div class=" col-sm-6 mb-3">
+                            <label for="P" class="form-label">Phosphorous (P)</label>
+                            <input type="text" class="form-control" id="P" name="P">
+                        </div>
+                        <div class="col-sm-6 mb-3">
+                            <label for="K" class="form-label">Potassium (K)</label>
+                            <input type="text" class="form-control" id="K" name="K">
+                          </div>
+                        <div class="col-sm-6 mb-3">
+                            <label for="temp" class="form-label">Temperature</label>
+                            <input type="text" class="form-control" id="temp" name="temp">
+                        </div>
+                        <div class="col-sm-6 mb-3">
+                            <label for="humidity" class="form-label">Humidity</label>
+                            <input type="text" class="form-control" id="humidity" name="humidity">
+                        </div>
+                        <div class="col-sm-6 mb-3">
+                            <label for="ph" class="form-label">Soil PH</label>
+                            <input type="text" class="form-control" id="ph" name="ph">
+                        </div>
+                        <div class="col-sm-6 mb-3">
+                            <label for="rainfall" class="form-label">Rainfall</label>
+                            <input type="text" class="form-control" id="rainfall" name="rainfall">
+                        </div>
+                        <div class="col-sm-8 mb-3">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                 
+                    </div>
+                  </form>
+            </div>
+        </div>
+    </div>
+
+  </body>
 </html>
