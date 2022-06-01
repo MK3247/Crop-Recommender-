@@ -2,11 +2,11 @@
 
 Home Page
 
-![image](https://github.com/MK3247/Crop-Recommender-/blob/main/home.jpg)
+![image](https://github.com/MK3247/Crop-Recommender-/blob/main/home.JPG)
 
 Result Page
 
-![image](https://github.com/MK3247/Crop-Recommender-/blob/main/result.jpg)
+![image](https://github.com/MK3247/Crop-Recommender-/blob/main/result.JPG)
 
 # Motivation
 
@@ -20,7 +20,7 @@ Ph level, rainfall and geographical location.
 
 * Flask (Back End) 
 * Bootstrap5 (Front End) 
-* Random Forest Classifier (ML Algorith)
+* Random Forest Classifier (ML Algorithm)
 
 ## Feature
 
