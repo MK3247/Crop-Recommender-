@@ -2,11 +2,11 @@
 
 HOME PAGE
 
-![image](https://github.com/MK3247/Crop-Recommender-/blob/main/home.JPG)
+![image](https://github.com/MK3247/Crop-Recommender-/blob/main/homex.JPG)
 
 RESULT PAGE
 
-![image](https://github.com/MK3247/Crop-Recommender-/blob/main/result.JPG)
+![image](https://github.com/MK3247/Crop-Recommender-/blob/main/resultx.JPG)
 
 # Motivation
 
