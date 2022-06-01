@@ -1,10 +1,10 @@
-# Crop Recommender System
+# CROP RECOMMENDER SYSTEM
 
-Home Page
+HOME PAGE
 
 ![image](https://github.com/MK3247/Crop-Recommender-/blob/main/home.JPG)
 
-Result Page
+RESULT PAGE
 
 ![image](https://github.com/MK3247/Crop-Recommender-/blob/main/result.JPG)
 
