@@ -6,7 +6,7 @@ body {
 }
 
 .banner {
-    height: 145vh;
+    height: 140vh;
     background: url('/static/img/hd.jpg');
     background-position: center;
     width:100%;
