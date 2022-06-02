@@ -1,5 +1,7 @@
 # CROP RECOMMENDER SYSTEM
 
+**Link**: [FARM ASSISTANT](https://mlxcrop.herokuapp.com/)
+
 HOME PAGE
 
 ![image](https://github.com/MK3247/Crop-Recommender-/blob/main/homex.JPG)
