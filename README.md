@@ -72,5 +72,5 @@ In case you find a bug, kindly open an issue [here](https://https://github.com/M
 
 * **[Charles Wafula](https://https://github.com/WMKCharles)** 
 
-[![github follow](https://img.shields.io/github/followers/MK3247?label=Follow_on_GitHub)](https://github.com/MK3247)
+[![github follow](https://img.shields.io/github/followers/WMKCharles?label=Follow_on_GitHub)](https://github.com/WMKCharles)
 [![twitter follow](https://img.shields.io/twitter/follow/WMKCharles?style=social)](https://twitter.com/WMKCharles)
