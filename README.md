@@ -70,7 +70,7 @@ In case you find a bug, kindly open an issue [here](https://https://github.com/M
 
 ## Author 
 
-* **[Charles Wafula](https://https://github.com/MK3247)** 
+* **[Charles Wafula](https://https://github.com/WMKCharles)** 
 
 [![github follow](https://img.shields.io/github/followers/MK3247?label=Follow_on_GitHub)](https://github.com/MK3247)
 [![twitter follow](https://img.shields.io/twitter/follow/WMKCharles?style=social)](https://twitter.com/WMKCharles)
